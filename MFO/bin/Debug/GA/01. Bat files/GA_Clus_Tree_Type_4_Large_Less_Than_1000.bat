@@ -1,0 +1,21 @@
+@MFO.EXE  2  GA\Type_4_Large\GA_Clus_Tree_4i200a.par  
+@MFO.EXE  2  GA\Type_4_Large\GA_Clus_Tree_4i200h.par  
+@MFO.EXE  2  GA\Type_4_Large\GA_Clus_Tree_4i200x1.par  
+@MFO.EXE  2  GA\Type_4_Large\GA_Clus_Tree_4i200x2.par  
+@MFO.EXE  2  GA\Type_4_Large\GA_Clus_Tree_4i200z.par  
+@MFO.EXE  2  GA\Type_4_Large\GA_Clus_Tree_4i400a.par  
+@MFO.EXE  2  GA\Type_4_Large\GA_Clus_Tree_4i400h.par  
+@MFO.EXE  2  GA\Type_4_Large\GA_Clus_Tree_4i400x1.par  
+@MFO.EXE  2  GA\Type_4_Large\GA_Clus_Tree_4i400x2.par  
+@MFO.EXE  2  GA\Type_4_Large\GA_Clus_Tree_4i400z.par  
+@MFO.EXE  2  GA\Type_4_Large\GA_Clus_Tree_8i1000a.par  
+@MFO.EXE  2  GA\Type_4_Large\GA_Clus_Tree_8i1000h.par  
+@MFO.EXE  2  GA\Type_4_Large\GA_Clus_Tree_8i1000x1.par  
+@MFO.EXE  2  GA\Type_4_Large\GA_Clus_Tree_8i1000x2.par  
+@MFO.EXE  2  GA\Type_4_Large\GA_Clus_Tree_8i1000z.par  
+@MFO.EXE  2  GA\Type_4_Large\GA_Clus_Tree_8i600a.par  
+@MFO.EXE  2  GA\Type_4_Large\GA_Clus_Tree_8i600h.par  
+@MFO.EXE  2  GA\Type_4_Large\GA_Clus_Tree_8i600x1.par  
+@MFO.EXE  2  GA\Type_4_Large\GA_Clus_Tree_8i600x2.par  
+@MFO.EXE  2  GA\Type_4_Large\GA_Clus_Tree_8i600z.par  
+

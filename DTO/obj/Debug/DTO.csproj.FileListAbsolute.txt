@@ -1,0 +1,58 @@
+D:\MyData\Read\Source code\Semina20092013\MSCX\DTO\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\Semina20092013\MSCX\DTO\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\Semina20092013\MSCX\DTO\obj\Debug\DTO.dll
+D:\MyData\Read\Source code\Semina20092013\MSCX\DTO\obj\Debug\DTO.pdb
+D:\MyData\Read\Source code\A_Standard\DTO\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\A_Standard\DTO\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\A_Standard\DTO\obj\Debug\DTO.dll
+D:\MyData\Read\Source code\A_Standard\DTO\obj\Debug\DTO.pdb
+D:\MyData\Read\Source code\Variable Neighborhood Search\DTO\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\Variable Neighborhood Search\DTO\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\Variable Neighborhood Search\DTO\obj\Debug\DTO.dll
+D:\MyData\Read\Source code\Variable Neighborhood Search\DTO\obj\Debug\DTO.pdb
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\DTO\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\DTO\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\DTO\obj\Debug\DTO.dll
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\DTO\obj\Debug\DTO.pdb
+D:\MyData\Read\Source code\07. BBO\Paper\DTO\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\07. BBO\Paper\DTO\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\07. BBO\Paper\DTO\obj\Debug\DTO.dll
+D:\MyData\Read\Source code\07. BBO\Paper\DTO\obj\Debug\DTO.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\DTO\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\DTO\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\DTO\obj\Debug\DTO.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\DTO\obj\Debug\DTO.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_09102016\DTO\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_09102016\DTO\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_09102016\DTO\obj\Debug\DTO.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_09102016\DTO\obj\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\DTO\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\DTO\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\DTO\obj\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\DTO\obj\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\DTO\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\DTO\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\DTO\obj\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\DTO\obj\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31052017\DTO\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31052017\DTO\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31052017\DTO\obj\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31052017\DTO\obj\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\DTO\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\DTO\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\DTO\obj\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\DTO\obj\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\DTO\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\DTO\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\DTO\obj\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\DTO\obj\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\DTO\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\DTO\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\DTO\obj\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\DTO\obj\Debug\DTO.pdb

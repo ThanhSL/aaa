@@ -1,0 +1,15 @@
+D:\MyData\Read\Source code\10. MFO\MFO\bin\Debug\MFO.exe.config
+D:\MyData\Read\Source code\10. MFO\MFO\bin\Debug\MFO.exe
+D:\MyData\Read\Source code\10. MFO\MFO\bin\Debug\MFO.pdb
+D:\MyData\Read\Source code\10. MFO\MFO\bin\Debug\BLL.dll
+D:\MyData\Read\Source code\10. MFO\MFO\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\MFO\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\MFO\bin\Debug\BLL.pdb
+D:\MyData\Read\Source code\10. MFO\MFO\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\MFO\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\MFO\obj\Debug\MFO.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\MFO\obj\Debug\MFO.exe
+D:\MyData\Read\Source code\10. MFO\MFO\obj\Debug\MFO.pdb
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\MFO\bin\Debug\MFO.exe.config
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\MFO\obj\Debug\MFO.exe
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\MFO\obj\Debug\MFO.pdb

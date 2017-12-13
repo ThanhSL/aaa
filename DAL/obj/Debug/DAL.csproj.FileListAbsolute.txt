@@ -1,0 +1,98 @@
+D:\MyData\Read\Source code\Semina20092013\MSCX\DAL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\Semina20092013\MSCX\DAL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\Semina20092013\MSCX\DAL\obj\Debug\DAL.dll
+D:\MyData\Read\Source code\Semina20092013\MSCX\DAL\obj\Debug\DAL.pdb
+D:\MyData\Read\Source code\Semina20092013\MSCX\DAL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\Semina20092013\MSCX\DAL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\Semina20092013\MSCX\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\A_Standard\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\A_Standard\DAL\obj\Debug\DAL.dll
+D:\MyData\Read\Source code\A_Standard\DAL\obj\Debug\DAL.pdb
+D:\MyData\Read\Source code\A_Standard\DAL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\A_Standard\DAL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\A_Standard\DAL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\A_Standard\DAL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\Variable Neighborhood Search\DAL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\Variable Neighborhood Search\DAL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\Variable Neighborhood Search\DAL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\Variable Neighborhood Search\DAL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\Variable Neighborhood Search\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\Variable Neighborhood Search\DAL\obj\Debug\DAL.dll
+D:\MyData\Read\Source code\Variable Neighborhood Search\DAL\obj\Debug\DAL.pdb
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\DAL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\DAL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\DAL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\DAL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\DAL\obj\Debug\DAL.dll
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\DAL\obj\Debug\DAL.pdb
+D:\MyData\Read\Source code\07. BBO\Paper\DAL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\07. BBO\Paper\DAL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\07. BBO\Paper\DAL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\07. BBO\Paper\DAL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\07. BBO\Paper\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\07. BBO\Paper\DAL\obj\Debug\DAL.dll
+D:\MyData\Read\Source code\07. BBO\Paper\DAL\obj\Debug\DAL.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\DAL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\DAL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\DAL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\DAL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\08. HTSP\Source code\DAL\obj\Debug\DAL.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\DAL\obj\Debug\DAL.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_09102016\DAL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_09102016\DAL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_09102016\DAL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_09102016\DAL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_09102016\DAL\obj\Debug\DAL.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_09102016\DAL\obj\Debug\DAL.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_09102016\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\DAL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\DAL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\DAL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\DAL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\DAL\obj\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\DAL\obj\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\DAL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\DAL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\DAL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\DAL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\DAL\obj\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\DAL\obj\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31052017\DAL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31052017\DAL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31052017\DAL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31052017\DAL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31052017\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31052017\DAL\obj\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31052017\DAL\obj\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31072017\DAL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31072017\DAL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31072017\DAL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31072017\DAL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31072017\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31072017\DAL\obj\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31072017\DAL\obj\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\DAL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\DAL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\DAL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\DAL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\DAL\obj\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\DAL\obj\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\DAL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\DAL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\DAL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\DAL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\DAL\obj\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\DAL\obj\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\DAL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\DAL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\DAL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\DAL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\DAL\obj\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\DAL\obj\Debug\DAL.pdb

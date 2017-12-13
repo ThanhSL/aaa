@@ -1,0 +1,4 @@
+fileName: Results\Para_File(MFO_Clus_Tree_5eil51)_NumTask(2)_5eil51_5eil51\Para_File(MFO_Clus_Tree_5eil51)_Task_1(5eil51)_Seed(1).opt
+Seed: 1
+Fitness: 1817.10657556194
+Time: 00:00:15.3279230

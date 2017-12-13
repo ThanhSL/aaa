@@ -1,0 +1,135 @@
+D:\MyData\Read\Source code\Semina20092013\MSCX\BLL\bin\Debug\BLL.dll
+D:\MyData\Read\Source code\Semina20092013\MSCX\BLL\bin\Debug\BLL.pdb
+D:\MyData\Read\Source code\Semina20092013\MSCX\BLL\obj\Debug\BLL.dll
+D:\MyData\Read\Source code\Semina20092013\MSCX\BLL\obj\Debug\BLL.pdb
+D:\MyData\Read\Source code\Semina20092013\MSCX\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\Semina20092013\MSCX\BLL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\Semina20092013\MSCX\BLL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\Semina20092013\MSCX\BLL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\Semina20092013\MSCX\BLL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\A_Standard\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\A_Standard\BLL\obj\Debug\BLL.dll
+D:\MyData\Read\Source code\A_Standard\BLL\obj\Debug\BLL.pdb
+D:\MyData\Read\Source code\A_Standard\BLL\bin\Debug\BLL.dll
+D:\MyData\Read\Source code\A_Standard\BLL\bin\Debug\BLL.pdb
+D:\MyData\Read\Source code\A_Standard\BLL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\A_Standard\BLL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\A_Standard\BLL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\A_Standard\BLL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\Variable Neighborhood Search\BLL\bin\Debug\BLL.dll
+D:\MyData\Read\Source code\Variable Neighborhood Search\BLL\bin\Debug\BLL.pdb
+D:\MyData\Read\Source code\Variable Neighborhood Search\BLL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\Variable Neighborhood Search\BLL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\Variable Neighborhood Search\BLL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\Variable Neighborhood Search\BLL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\Variable Neighborhood Search\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\Variable Neighborhood Search\BLL\obj\Debug\BLL.dll
+D:\MyData\Read\Source code\Variable Neighborhood Search\BLL\obj\Debug\BLL.pdb
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\BLL\bin\Debug\BLL.dll
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\BLL\bin\Debug\BLL.pdb
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\BLL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\BLL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\BLL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\BLL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\BLL\obj\Debug\BLL.dll
+D:\MyData\Read\Source code\3. Variable Neighborhood Search\BLL\obj\Debug\BLL.pdb
+D:\MyData\Read\Source code\07. BBO\Paper\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\07. BBO\Paper\BLL\obj\Debug\BLL.dll
+D:\MyData\Read\Source code\07. BBO\Paper\BLL\bin\Debug\BLL.dll
+D:\MyData\Read\Source code\07. BBO\Paper\BLL\bin\Debug\BLL.pdb
+D:\MyData\Read\Source code\07. BBO\Paper\BLL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\07. BBO\Paper\BLL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\07. BBO\Paper\BLL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\07. BBO\Paper\BLL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\07. BBO\Paper\BLL\obj\Debug\BLL.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\BLL\bin\Debug\BLL.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\BLL\bin\Debug\BLL.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\BLL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\BLL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\BLL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\BLL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\08. HTSP\Source code\BLL\obj\Debug\BLL.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\BLL\obj\Debug\BLL.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_19092016\BLL\bin\Debug\BLL.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_19092016\BLL\bin\Debug\BLL.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_19092016\BLL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_19092016\BLL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_19092016\BLL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_19092016\BLL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_19092016\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_19092016\BLL\obj\Debug\BLL.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_19092016\BLL\obj\Debug\BLL.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_09102016\BLL\bin\Debug\BLL.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_09102016\BLL\bin\Debug\BLL.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_09102016\BLL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_09102016\BLL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_09102016\BLL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_09102016\BLL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_09102016\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_09102016\BLL\obj\Debug\BLL.dll
+D:\MyData\Read\Source code\08. HTSP\Source code\HTSP_09102016\BLL\obj\Debug\BLL.pdb
+D:\MyData\Read\Source code\10. MFO\BLL\bin\Debug\BLL.dll
+D:\MyData\Read\Source code\10. MFO\BLL\bin\Debug\BLL.pdb
+D:\MyData\Read\Source code\10. MFO\BLL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\BLL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\BLL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\BLL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\BLL\obj\Debug\BLL.dll
+D:\MyData\Read\Source code\10. MFO\BLL\obj\Debug\BLL.pdb
+D:\MyData\Read\Source code\10. MFO\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\BLL\obj\Debug\BLL.dll
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\BLL\obj\Debug\BLL.pdb
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\BLL\bin\Debug\BLL.dll
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\BLL\bin\Debug\BLL.pdb
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\BLL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\BLL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\BLL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\B. MFO_Standard\BLL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31052017\BLL\bin\Debug\BLL.dll
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31052017\BLL\bin\Debug\BLL.pdb
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31052017\BLL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31052017\BLL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31052017\BLL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31052017\BLL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31052017\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31052017\BLL\obj\Debug\BLL.dll
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31052017\BLL\obj\Debug\BLL.pdb
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31072017\BLL\bin\Debug\BLL.dll
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31072017\BLL\bin\Debug\BLL.pdb
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31072017\BLL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31072017\BLL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31072017\BLL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31072017\BLL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31072017\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31072017\BLL\obj\Debug\BLL.dll
+D:\MyData\Read\Source code\10. MFO\C. MFO_Standard_31072017\BLL\obj\Debug\BLL.pdb
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\BLL\bin\Debug\BLL.dll
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\BLL\bin\Debug\BLL.pdb
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\BLL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\BLL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\BLL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\BLL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\BLL\obj\Debug\BLL.dll
+D:\MyData\Read\Source code\10. MFO\D. MFO_Standard_31072017\BLL\obj\Debug\BLL.pdb
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\BLL\bin\Debug\BLL.dll
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\BLL\bin\Debug\BLL.pdb
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\BLL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\BLL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\BLL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\BLL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\BLL\obj\Debug\BLL.dll
+D:\MyData\Read\Source code\10. MFO\F. MFO_03172017\BLL\obj\Debug\BLL.pdb
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\BLL\bin\Debug\BLL.dll
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\BLL\bin\Debug\BLL.pdb
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\BLL\bin\Debug\DAL.dll
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\BLL\bin\Debug\DTO.dll
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\BLL\bin\Debug\DAL.pdb
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\BLL\bin\Debug\DTO.pdb
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\BLL\obj\Debug\BLL.dll
+D:\MyData\Read\Source code\10. MFO\G. MFO_22112017\BLL\obj\Debug\BLL.pdb
